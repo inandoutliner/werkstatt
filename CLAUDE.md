@@ -11,12 +11,13 @@ Einstieg ist immer `README.md` in diesem Repo. Sie listet alle Projekte, Repos u
 5. Bei Bedarf das passende Claude-Artefakt mit derselben Datei neu veröffentlichen.
 6. Nach größeren Änderungen die Karte neu erzeugen: `python3 werkstatt/werkzeuge/karte.py <repo>` (Rechtschreibfreunde: zusätzlich `mathe/index.html` anhängen).
 7. Wenn sich Zweck, Adresse oder Stand ändern: README des Repos und die Tabelle hier anpassen.
-8. Die aktuelle Datei zusätzlich in den Ordner `APPs` auf dem Mac legen (Web-Projekte als `<Name> <Version>.html`).
+8. Nichts mehr von Hand in den Ordner `APPs` legen: Jedes Repo ist dort als Klon (`APPs/<repo>`) eingebunden. Der Nutzer holt Änderungen mit GitHub Desktop („Pull origin“).
 
 ## Wo ist der aktuelle Stand?
 
 - GitHub ist die Quelle. Zu Beginn wird das Repo gelesen, nicht der APPs-Ordner.
-- Ausnahme: Wenn der Nutzer selbst am Mac geändert hat (v. a. Xcode/Android Studio), zuerst mit dem APPs-Ordner abgleichen.
+- Am Mac geänderte Stände schickt der Nutzer mit GitHub Desktop („Commit“ + „Push origin“). Wirkt etwas veraltet, nachfragen, ob noch ein Push aussteht.
+- Alte Stände vor der Umstellung liegen in `APPs/Archiv`.
 
 ## Grundsätze
 
