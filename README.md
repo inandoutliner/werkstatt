@@ -25,10 +25,10 @@
 | Projekt | Was | Repo |
 |---|---|---|
 | Fernbedienung | iPhone-App + Box-App „Schwarz“ mit Musiktruhe | [fernbedienung](https://github.com/inandoutliner/fernbedienung) 🔒 |
+| Begegnungs Beleg | iPhone-App: Foto + Zitat auf den Phomemo T02 | [begegnungsbeleg](https://github.com/inandoutliner/begegnungsbeleg) 🔒 |
 
 ## Noch ohne Repo
 
-- **Begegnungsbeleg** – iPhone-App für den Phomemo T02 (Repo folgt)
 - Font Collector, Schatten-Studio, Buchstaben-Werkstatt – bisher nur als Artefakt
 
 ## Regeln
