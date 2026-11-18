@@ -14,5 +14,5 @@ Einstieg ist immer `README.md` in diesem Repo. Sie listet alle Projekte, Repos u
 ## Grundsätze
 
 - Ein Repo pro Projekt; dieses Repo enthält keinen Code.
-- Alle Repos sind öffentlich: keine personenbezogenen Daten, Passwörter oder geheimen Schlüssel einchecken. Öffentliche Schlüssel (z. B. Supabase Publishable Key) sind ok, dann aber Zugriffsregeln in der Datenbank prüfen.
-- Native Apps (Xcode, Android Studio) liegen lokal im Ordner `APPs` auf dem Mac.
+- Web-Repos sind öffentlich, native Apps privat (z. B. `fernbedienung`). In keinem Repo: keine personenbezogenen Daten, Passwörter oder geheimen Schlüssel einchecken. Öffentliche Schlüssel (z. B. Supabase Publishable Key) sind ok, dann aber Zugriffsregeln in der Datenbank prüfen.
+- Native Apps (Xcode, Android Studio) werden lokal im Ordner `APPs` auf dem Mac gebaut; das Repo ist die Sicherung. Signierschlüssel (`*.keystore`) bleiben nur lokal.

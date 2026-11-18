@@ -20,14 +20,20 @@
 |---|---|---|
 | Musik-Listen | belegte Listen für die Musiktruhe (`listen.json`) | [musik-listen](https://github.com/inandoutliner/musik-listen) |
 
+## Native Apps (privat)
+
+| Projekt | Was | Repo |
+|---|---|---|
+| Fernbedienung | iPhone-App + Box-App „Schwarz“ mit Musiktruhe | [fernbedienung](https://github.com/inandoutliner/fernbedienung) 🔒 |
+
 ## Noch ohne Repo
 
-- **Fernbedienung** – iPhone-App + Box-Apps (Schwarz, Musiktruhe), lokal in `APPs/Fernbedienung`
 - **Begegnungsbeleg** – iPhone-App für den Phomemo T02 (Repo folgt)
 - Font Collector, Schatten-Studio, Buchstaben-Werkstatt – bisher nur als Artefakt
 
 ## Regeln
 
-- Alle Repos sind öffentlich: keine Namen, E-Mails, Passwörter, privaten Fotos oder geheimen Schlüssel.
+- Web-Projekte sind öffentlich (GitHub Pages): keine Namen, E-Mails, Passwörter, privaten Fotos oder geheimen Schlüssel.
+- Native Apps liegen in privaten Repos; Signierschlüssel trotzdem nie einchecken.
 - Jedes Repo hat eine README mit Zweck und Online-Link.
 - Neues Projekt → hier eine Zeile ergänzen.
