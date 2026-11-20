@@ -26,10 +26,12 @@
 |---|---|---|
 | Fernbedienung | iPhone-App + Box-App „Schwarz“ mit Musiktruhe (Spotify + ARD Sounds) | [fernbedienung](https://github.com/inandoutliner/fernbedienung) 🔒 |
 | Begegnungs Beleg | iPhone-App: Foto + Zitat auf den Phomemo T02 | [begegnungsbeleg](https://github.com/inandoutliner/begegnungsbeleg) 🔒 |
+| Weiter Writer (iPhone) | Stimmgerät, Metronom, Mehrspur-Studio | [weiterwriter](https://github.com/inandoutliner/weiterwriter) 🔒 |
 
 ## Noch ohne Repo
 
 - Font Collector, Schatten-Studio, Buchstaben-Werkstatt – bisher nur als Artefakt
+- Weiter Writer (Browser-Version, Rechenzentrale am Mac) – liegt in `APPs/WeiterWriter`
 
 ## Regeln
 
