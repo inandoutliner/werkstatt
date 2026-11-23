@@ -41,3 +41,4 @@
 - Native Apps liegen in privaten Repos; Signierschlüssel trotzdem nie einchecken.
 - Jedes Repo hat eine README mit Zweck und Online-Link.
 - Neues Projekt → hier eine Zeile ergänzen und in `index.html` eine Kachel anlegen.
+- App-Icons im Stil „Stempel“ kommen aus `werkzeuge/icons` (siehe LIESMICH dort): Plotten blau, Kinder rot, Fest grün.
