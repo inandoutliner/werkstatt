@@ -2,6 +2,8 @@
 
 Übersicht über alle Projekte. Ein Repo pro Projekt, diese Seite ist das Inhaltsverzeichnis.
 
+**Startseite fürs iPhone:** [inandoutliner.github.io/werkstatt](https://inandoutliner.github.io/werkstatt/) – Kacheln für alle Browser-Apps, als Web-App auf dem Home-Bildschirm.
+
 ## Online (GitHub Pages)
 
 | Projekt | Was | Online | Repo |
@@ -38,4 +40,4 @@
 - Web-Projekte sind öffentlich (GitHub Pages): keine Namen, E-Mails, Passwörter, privaten Fotos oder geheimen Schlüssel.
 - Native Apps liegen in privaten Repos; Signierschlüssel trotzdem nie einchecken.
 - Jedes Repo hat eine README mit Zweck und Online-Link.
-- Neues Projekt → hier eine Zeile ergänzen.
+- Neues Projekt → hier eine Zeile ergänzen und in `index.html` eine Kachel anlegen.
