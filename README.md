@@ -15,6 +15,7 @@
 | Rechtschreibfreunde | Rechtschreib-Lernseite, 1.–3. Klasse | [öffnen](https://inandoutliner.github.io/rechtschreibfreunde/) | [rechtschreibfreunde](https://github.com/inandoutliner/rechtschreibfreunde) |
 | Rechenfreunde | Mathe-Lernseite, liegt im selben Repo | [öffnen](https://inandoutliner.github.io/rechtschreibfreunde/mathe/) | [rechtschreibfreunde/mathe](https://github.com/inandoutliner/rechtschreibfreunde/tree/main/mathe) |
 | Weihnachten | Fotokalender + Wichteln (noch nicht aktiv) | weihnachten.inandoutliner.de | [weihnachten](https://github.com/inandoutliner/weihnachten) |
+| Zu zweit | geteilte To-do-Liste für zwei, nach nächstem Anlass sortiert | [öffnen](https://inandoutliner.github.io/zuzweit/) | [zuzweit](https://github.com/inandoutliner/zuzweit) |
 
 ## Daten
 

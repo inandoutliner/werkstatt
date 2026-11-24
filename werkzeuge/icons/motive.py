@@ -171,6 +171,20 @@ def weihnachten():
     m = m * (1 - np.asarray(b, np.float32) / 255 * 0)  # Kreis liegt drüber
     return {'a': m.astype(np.float32), 'b': fertig(b)}
 
+def zuzweit():
+    """Zwei Häkchen hintereinander: eins voll, eins im hellen Ton – erledigt, zu zweit."""
+    a, b = leer(), leer(); da, db = ImageDraw.Draw(a), ImageDraw.Draw(b)
+    def haken(d, dx, dy):
+        pts = [(470 + dx, 1050 + dy), (790 + dx, 1370 + dy), (1420 + dx, 740 + dy)]
+        d.line(pts, fill=255, width=210, joint='curve')
+        for x, y in (pts[0], pts[2]):
+            d.ellipse([x - 105, y - 105, x + 105, y + 105], fill=255)
+    haken(db, 230, -330)
+    haken(da, -40, 200)
+    am, bm = fertig(a), fertig(b)
+    bm = np.clip(bm - cv2.dilate(am, np.ones((45, 45), np.uint8)), 0, 1)
+    return {'a': am, 'b': bm}
+
 MOTIVE = [
     ('Werkstatt', werkstatt, 'WERKSTATT'),
     ('Abwickler', abwickler, 'FALTEN'),
@@ -180,6 +194,7 @@ MOTIVE = [
     ('Rechtschreibfreunde', rechtschreib, 'WÖRTER'),
     ('Rechenfreunde', rechnen, 'RECHNEN'),
     ('Weihnachten', weihnachten, 'FEST'),
+    ('Zu zweit', zuzweit, 'ZWEIT'),
 ]
 
 

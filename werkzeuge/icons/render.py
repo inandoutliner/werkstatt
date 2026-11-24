@@ -14,7 +14,7 @@ BLAU_WW = (33, 108, 174)     # Weiter Writer
 PINK = (255, 74, 160)
 
 GRUPPE = {'Werkstatt': SCHWARZ, 'Abwickler': BLAU_FB, 'Modellgenerator': BLAU_FB, 'In And Out Liner': BLAU_FB,
-          'Hochzeitskarten': BLAU_FB, 'Rechtschreibfreunde': ROT, 'Rechenfreunde': ROT, 'Weihnachten': GRUEN}
+          'Hochzeitskarten': BLAU_FB, 'Rechtschreibfreunde': ROT, 'Rechenfreunde': ROT, 'Weihnachten': GRUEN, 'Zu zweit': GRUEN}
 
 def lagen(motiv, skala, cx, cy):
     return {k: platziere(v, skala, cx, cy) for k, v in motiv.items()}
