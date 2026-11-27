@@ -16,7 +16,7 @@
 | Rechenfreunde | Mathe-Lernseite, liegt im selben Repo | [öffnen](https://inandoutliner.github.io/rechtschreibfreunde/mathe/) | [rechtschreibfreunde/mathe](https://github.com/inandoutliner/rechtschreibfreunde/tree/main/mathe) |
 | Weihnachten | Fotokalender + Wichteln (noch nicht aktiv) | weihnachten.inandoutliner.de | [weihnachten](https://github.com/inandoutliner/weihnachten) |
 | Fotokalender A4 | A4-Kalender zu zweit, Fotos von zwei iPhones, liegt im selben Repo | weihnachten.inandoutliner.de/a4/ | [weihnachten/a4](https://github.com/inandoutliner/weihnachten/tree/main/a4) |
-| Zu zweit | geteilte To-do-Liste für zwei, nach nächstem Anlass sortiert | [öffnen](https://inandoutliner.github.io/zuzweit/) | [zuzweit](https://github.com/inandoutliner/zuzweit) |
+| Zu zweit | geteilte To-do-Liste für zwei, nach nächstem Anlass sortiert, mit Neuseeland-Karte für Orte | [öffnen](https://inandoutliner.github.io/zuzweit/) | [zuzweit](https://github.com/inandoutliner/zuzweit) |
 
 ## Daten
 
